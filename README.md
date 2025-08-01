@@ -82,7 +82,7 @@ Each sub-folder contains one project with the following files:
 
 ```bash
 # Clone repo
-$ git clone https://github.com/yourname/move-master-suite.git
+$ git clone https://github.com/itzdhruv/move-aptos-sui.git
 $ cd move-master-suite
 
 # Run tests for FlowStream
